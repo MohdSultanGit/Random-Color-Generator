@@ -1,1 +1,1 @@
-# Random-Color-Generator
+Hey Everyone, this is my third project which I am posting here it in GitHub. In this project I have created a Random-Color Generator, In this project by just clicking on "Click me" and you will get a new Color. Hope you like it and feel free to give me your valuable feedback it will really appreciated. Thanks for reading it ❤
